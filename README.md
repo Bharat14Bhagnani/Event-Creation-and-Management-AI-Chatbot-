@@ -48,33 +48,37 @@ AI-powered event planning assistant with conversational flow, venue recommendati
 ## 📸 Screenshots
 
 ### 💬 Chat Flow
-assets/chat_start.png
----
-### 💬 LLM Question
-assets/llm_question.png
+![Chat Flow](assets/chat_start.png)
+
 ---
 
+### 💬 LLM Question
+![LLM Question](assets/llm_question.png)
+
+---
 
 ### 🏢 Venue Selection
-assets/venue_selection_1.png
----
-### 🏢 Venue Selection 2
-assets/venue_selection_2.png
+![Venue Selection](assets/venue_selection_1.png)
+
 ---
 
+### 🏢 Venue Selection 2
+![Venue Selection 2](assets/venue_selection_2.png)
+
+---
 
 ### 📅 Event Created
-assets/final_output_1.png
----
-### 📅 Event Created 2
-assets/final_output_2.png
+![Event Created](assets/final_output_1.png)
+
 ---
 
+### 📅 Event Created 2
+![Event Created 2](assets/final_output_2.png)
+
+---
 
 ### 📅 Calendar Proof
-assets/proof_calendar.png
----
-
+![Calendar Proof](assets/proof_calendar.png)
 ## 🛠️ Tech Stack
 
 * **Frontend:** Streamlit
