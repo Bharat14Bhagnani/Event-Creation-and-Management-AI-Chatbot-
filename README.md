@@ -49,7 +49,7 @@ AI-powered event planning assistant with conversational flow, venue recommendati
 
 ### 💬 Chat Flow
 
-
+assets/chat_start.png
 
 ---
 
