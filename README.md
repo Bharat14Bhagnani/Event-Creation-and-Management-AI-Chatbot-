@@ -63,17 +63,16 @@ assets/venue_selection_2.png
 ---
 
 
-
 ### 📅 Event Created
 assets/final_output_1.png
 ---
-
 ### 📅 Event Created 2
 assets/final_output_2.png
 ---
+
+
 ### 📅 Calendar Proof
-
-
+assets/proof_calendar.png
 ---
 
 ## 🛠️ Tech Stack
