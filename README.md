@@ -51,15 +51,29 @@ AI-powered event planning assistant with conversational flow, venue recommendati
 assets/chat_start.png
 ---
 ### 💬 LLM Question
-
+assets/llm_question.png
 ---
 
 
 ### 🏢 Venue Selection
 
 ---
+### 🏢 Venue Selection 2
+
+---
+
+
 
 ### 📅 Event Created
+
+
+---
+
+### 📅 Event Created 2
+
+
+---
+### 📅 Calendar Proof
 
 
 ---
