@@ -69,8 +69,7 @@ assets/final_output_1.png
 ---
 
 ### 📅 Event Created 2
-
-
+assets/final_output_2.png
 ---
 ### 📅 Calendar Proof
 
