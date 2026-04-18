@@ -55,7 +55,7 @@ assets/llm_question.png
 
 ### 🏢 Venue Selection
 
-
+assets/venue_selection_1.png
 ---
 
 ### 📅 Event Created
