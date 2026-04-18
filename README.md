@@ -59,7 +59,7 @@ assets/llm_question.png
 assets/venue_selection_1.png
 ---
 ### 🏢 Venue Selection 2
-
+assets/venue_selection_2.png
 ---
 
 
