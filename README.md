@@ -48,7 +48,7 @@ AI-powered event planning assistant with conversational flow, venue recommendati
 ## 📸 Screenshots
 
 ### 💬 Chat Flow
-
+assets/chat_start.png
 ---
 
 ### 🏢 Venue Selection
