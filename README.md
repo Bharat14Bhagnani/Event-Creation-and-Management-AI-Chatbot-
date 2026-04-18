@@ -65,8 +65,7 @@ assets/venue_selection_2.png
 
 
 ### 📅 Event Created
-
-
+assets/final_output_1.png
 ---
 
 ### 📅 Event Created 2
